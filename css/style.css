@@ -77,3 +77,30 @@ button{
     padding-right:50px ;
     color: #fa804c;
 }
+
+
+.service img{
+    height: 80px;
+    width:80px;
+    
+}
+
+.service h5{
+    font-weight: 700;
+    color:#363958 ;
+}
+.service p{
+    color:#555 ;
+    font-size: 15px;
+}
+
+.last{
+    margin: 80px 0px;
+}
+
+.main-img img{
+    width: 100%;
+    background-repeat:no-repeat ;
+    background-size:cover ;
+    margin:50px 0;
+}
